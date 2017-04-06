@@ -1,0 +1,9 @@
+Hadoop is an open source,java based framework that allows the storage and processing of large collection of data.
+Hadoop consists of the following:
+
+HDFS:
+Hadoop distributed file system is the solution to the storage problem that nowadays data faces. It stores the data in distributed manner on commodity hardwares that interact with the master node to obtain there commands.The master node is called NameNode and the slave node is called DataNode.
+
+Map/Reduce
+Map/Reduce algorithm consists of two processes map and reduce that is used to process humungus amounts of data to generate patterns.
+It is a software framework.It too works on master slave architecture.The master node is called Rsource Manager and the slave nodes are called the manager nodes that are commodity machines used to process data.
